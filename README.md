@@ -1,56 +1,30 @@
 # CodeIgniter 4 Framework
 
-## What is CodeIgniter?
+## DEMO?
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](http://codeigniter.com).
-
-This repository holds the distributable version of the framework,
-including the user guide. It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
-
-More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums.
-
-The user guide corresponding to this version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
+https://rulggwp.online
 
 
-## Important Change with index.php
+## Index
 
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
+![image](https://user-images.githubusercontent.com/39154644/126063500-ea68bc9e-3c8d-40e9-9631-87250c682555.png)
 
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
 
-**Please** read the user guide for a better explanation of how CI4 works!
+## CRUD Pelayananan
 
-## Repository Management
+![image](https://user-images.githubusercontent.com/39154644/126063524-be1479e1-c3ba-4f15-b3a4-427f5631621c.png)
 
-We use Github issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
+## Ambil antrian
 
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
+![image](https://user-images.githubusercontent.com/39154644/126063540-6a95db48-4357-4792-862a-146a24b1a9d3.png)
 
-## Contributing
 
-We welcome contributions from the community.
+## Result ketika berhasil ambil antrian
 
-Please read the [*Contributing to CodeIgniter*](https://github.com/codeigniter4/CodeIgniter4/blob/develop/CONTRIBUTING.md) section in the development repository.
+![image](https://user-images.githubusercontent.com/39154644/126063553-b0de4012-de4d-4c62-ab6e-1bf4ca51750f.png)
 
-## Server Requirements
 
-PHP version 7.3 or higher is required, with the following extensions installed:
+## Loket Panggil
 
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+![image](https://user-images.githubusercontent.com/39154644/126063562-9473b1ad-21da-4a1b-a2f3-4e3db1fb39ba.png)
 
-Additionally, make sure that the following extensions are enabled in your PHP:
-
-- json (enabled by default - don't turn it off)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
-- xml (enabled by default - don't turn it off)
