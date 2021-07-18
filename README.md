@@ -28,3 +28,8 @@ https://rulggwp.online
 
 ![image](https://user-images.githubusercontent.com/39154644/126063562-9473b1ad-21da-4a1b-a2f3-4e3db1fb39ba.png)
 
+
+## Result ketika berhasil memanggil antrian
+
+![image](https://user-images.githubusercontent.com/39154644/126063598-266ed9f8-9be8-4408-add6-85a14443c290.png)
+
