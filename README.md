@@ -2,7 +2,7 @@
 
 ## DEMO?
 
-https://rulggwp.online
+http://54.254.248.107/ci/public/
 
 
 ## Index
